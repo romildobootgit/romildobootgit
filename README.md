@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hello my name is Romildo Junior !
+
 I am a software engineer and university teacher with more than 10 years of experience. I have worked and deployed systems, websites and applications to clients in more than 10 countries. I have a bachelor degree in Civil Engineering from the Pontifical Catholic University of Minas Gerais (2010), a Masters and Doctorate (Phd) in Civil Engineering (Concept CAPES 4) from the State University of Campinas, UNICAMP.
 
 
